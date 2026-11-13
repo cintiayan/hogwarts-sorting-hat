@@ -43,4 +43,4 @@ python main.py
 
 ## Autor(es)
 
-Nombre de los integrantes del proyecto.
+Cintia Yan.
